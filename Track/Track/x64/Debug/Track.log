@@ -1,0 +1,160 @@
+﻿  ButtonCollection.cpp
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\ButtonCollection.cpp(114,62): warning C4244: 'argument': conversion from 'unsigned __int64' to 'double', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\ButtonCollection.cpp(116,62): warning C4244: 'argument': conversion from 'unsigned __int64' to 'double', possible loss of data
+  DrawingUtilNG.cpp
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\DrawingUtilNG.cpp(27,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\DrawingUtilNG.cpp(84,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\DrawingUtilNG.cpp(85,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\DrawingUtilNG.cpp(86,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\DrawingUtilNG.cpp(95,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\DrawingUtilNG.cpp(96,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\DrawingUtilNG.cpp(103,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\DrawingUtilNG.cpp(115,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\DrawingUtilNG.cpp(116,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\DrawingUtilNG.cpp(132,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\DrawingUtilNG.cpp(133,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\DrawingUtilNG.cpp(135,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\DrawingUtilNG.cpp(136,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\DrawingUtilNG.cpp(122,10): warning C4101: 'prevX': unreferenced local variable
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\DrawingUtilNG.cpp(122,17): warning C4101: 'prevY': unreferenced local variable
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\DrawingUtilNG.cpp(188,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\DrawingUtilNG.cpp(243,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\DrawingUtilNG.cpp(268,7): warning C4804: '%': unsafe use of type 'bool' in operation
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\DrawingUtilNG.cpp(305,7): warning C4804: '%': unsafe use of type 'bool' in operation
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\DrawingUtilNG.cpp(487,45): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\DrawingUtilNG.cpp(620,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\DrawingUtilNG.cpp(624,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\DrawingUtilNG.cpp(627,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  fssimplewindow.cpp
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\fssimplewindow.cpp(954,72): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  GraphicFont.cpp
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\GraphicFont.cpp(27,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\GraphicFont.cpp(31,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\GraphicFont.cpp(147,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\GraphicFont.cpp(148,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\GraphicFont.cpp(225,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\GraphicFont.cpp(226,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\GraphicFont.cpp(268,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\GraphicFont.cpp(269,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Line2D.cpp
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\Line2D.cpp(22,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\Line2D.cpp(23,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\Line2D.cpp(24,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\Line2D.cpp(63,9): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\Line2D.cpp(77,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Shape2D.cpp
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\Shape2D.cpp(53,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\Shape2D.cpp(195,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\Shape2D.cpp(269,11): warning C4101: 'currPoint': unreferenced local variable
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\Shape2D.cpp(299,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\Shape2D.cpp(402,30): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  SlideBox.cpp
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\Track2D.h(18,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\SlideBox.cpp(90,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\SlideBox.cpp(92,26): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\SlideBox.cpp(120,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\SlideBox.cpp(121,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\SlideBox.cpp(147,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\SlideBox.cpp(147,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\SlideBox.cpp(150,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\SlideBox.cpp(150,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\SlideBox.cpp(153,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\SlideBox.cpp(156,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\SlideBox.cpp(112,21): warning C4101: 'By': unreferenced local variable
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\SlideBox.cpp(112,25): warning C4101: 'Cx': unreferenced local variable
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\SlideBox.cpp(112,13): warning C4101: 'Ay': unreferenced local variable
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\SlideBox.cpp(112,17): warning C4101: 'Bx': unreferenced local variable
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\SlideBox.cpp(112,33): warning C4101: 'Dx': unreferenced local variable
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\SlideBox.cpp(112,9): warning C4101: 'Ax': unreferenced local variable
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\SlideBox.cpp(112,29): warning C4101: 'Cy': unreferenced local variable
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\SlideBox.cpp(112,37): warning C4101: 'Dy': unreferenced local variable
+  StringPlus.cpp
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\StringPlus.cpp(77,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Track2D.cpp
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\Track2D.h(18,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\Track2D.cpp(33,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\Track2D.cpp(97,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\Track2D.cpp(102,45): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\Track2D.cpp(116,28): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\Track2D.cpp(139,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\Track2D.cpp(154,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\Track2D.cpp(156,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\Track2D.cpp(161,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\Track2D.cpp(163,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  TrackManager.cpp
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\Track2D.h(18,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\TrackManager.cpp(40,12): warning C4309: 'argument': truncation of constant value
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\TrackManager.cpp(113,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\TrackManager.cpp(114,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\TrackManager.cpp(149,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\TrackManager.cpp(151,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\TrackManager.cpp(249,18): warning C4305: '*=': truncation from 'double' to 'float'
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\TrackManager.cpp(251,18): warning C4305: '/=': truncation from 'double' to 'float'
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\TrackManager.cpp(253,17): warning C4244: '*=': conversion from 'const _Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\TrackManager.cpp(255,17): warning C4244: '/=': conversion from 'const _Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\TrackManager.cpp(430,32): warning C4305: '*=': truncation from 'double' to 'float'
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\TrackManager.cpp(432,33): warning C4305: '/=': truncation from 'double' to 'float'
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\TrackManager.cpp(490,38): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\TrackManager.cpp(510,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\TrackManager.cpp(510,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\TrackManager.cpp(518,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\TrackManager.cpp(525,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\TrackManager.cpp(525,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\TrackManager.cpp(525,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  TrackManagerMain.cpp
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\Track2D.h(18,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+  yspng.cpp
+  yssimplesound.cpp
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\yssimplesound.cpp(327,25): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\yssimplesound.cpp(496,22): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\yssimplesound.cpp(532,18): warning C4018: '<': signed/unsigned mismatch
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\yssimplesound.cpp(557,17): warning C4018: '<': signed/unsigned mismatch
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\yssimplesound.cpp(581,18): warning C4018: '<': signed/unsigned mismatch
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\yssimplesound.cpp(595,18): warning C4018: '<': signed/unsigned mismatch
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\yssimplesound.cpp(637,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\yssimplesound.cpp(644,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\yssimplesound.cpp(645,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\yssimplesound.cpp(654,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\yssimplesound.cpp(655,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\yssimplesound.cpp(656,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\yssimplesound.cpp(657,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\yssimplesound.cpp(690,22): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\yssimplesound.cpp(710,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\yssimplesound.cpp(710,71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\yssimplesound.cpp(716,23): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\yssimplesound.cpp(735,18): warning C4018: '<': signed/unsigned mismatch
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\yssimplesound.cpp(742,18): warning C4018: '<': signed/unsigned mismatch
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\yssimplesound.cpp(766,18): warning C4018: '<': signed/unsigned mismatch
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\yssimplesound.cpp(773,18): warning C4018: '<': signed/unsigned mismatch
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\yssimplesound.cpp(805,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\yssimplesound.cpp(811,23): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\yssimplesound.cpp(987,14): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\yssimplesound.cpp(1086,16): warning C4018: '<': signed/unsigned mismatch
+  yssimplesound_dsound.cpp
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\yssimplesound_dsound.cpp(104,42): warning C4311: 'type cast': pointer truncation from 'HWND' to 'int'
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\yssimplesound_dsound.cpp(104,42): warning C4302: 'type cast': truncation from 'HWND' to 'int'
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\yssimplesound_dsound.cpp(227,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\yssimplesound_dsound.cpp(229,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\Shape2D.cpp(90): warning C4715: 'Shape2D::addPoint': not all control paths return a value
+  ysglfontdata.c
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\ysglfontdata.c(17140,24): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\ysglfontdata.c(17150,24): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\ysglfontdata.c(17389,31): warning C4018: '<': signed/unsigned mismatch
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\ysglfontdata.c(17393,25): warning C4018: '<': signed/unsigned mismatch
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\ysglfontdata.c(17393,60): warning C4018: '<': signed/unsigned mismatch
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\ysglfontdata.c(17397,31): warning C4018: '<': signed/unsigned mismatch
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\ysglfontdata.c(17417,31): warning C4018: '<': signed/unsigned mismatch
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\ysglfontdata.c(17427,16): warning C4018: '<': signed/unsigned mismatch
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\ysglfontdata.c(17446,16): warning C4018: '<': signed/unsigned mismatch
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\ysglfontdata.c(17519,30): warning C4018: '<': signed/unsigned mismatch
+D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\Track\ysglfontdata.c(17536,32): warning C4018: '<': signed/unsigned mismatch
+  Track.vcxproj -> D:\CMU\COURSES\SEM-1\Ecomp Projects\Track\x64\Debug\Track.exe

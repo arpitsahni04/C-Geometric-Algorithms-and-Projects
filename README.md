@@ -2,7 +2,7 @@
 
 ## Maze Simple:
 Options:
-![p1](Assets\maze_instructions.png)
+![p1](Assets/Shape_Manipulator.png)
 ![p12](Assets\maze.gif)
 
 

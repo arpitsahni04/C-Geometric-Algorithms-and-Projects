@@ -3,7 +3,7 @@
 ## Maze Simple:
 Options:
 ![p1](Assets/Shape_Manipulator.png)
-![p12](Assets\maze.gif)
+![p12](Assets/maze.gif)
 
 
 
@@ -13,7 +13,7 @@ Options:
 ## Shape Manipulator
 Options:
 ![p2](Assets/Shape_Manipulator.png)
-![p22](Assets\shape.gif)
+![p22](Assets/shape.gif)
 
 
 

@@ -6,7 +6,7 @@ Algorithms implemented:
 2. BFS/DFS/ ASTAR.
 3. Simple Friction and motion models
 4. Searching & Sorting Algorithms.
-5. geometric algortihms for estimating Shape, angle, area, position, intersection, True intersection etc.
+5. geometric algortihms for estimating Shape, angle, area, position, intersection, True intersection, Tranformations etc.
 ## Maze Simple:
 Options:
 ![p1](Assets/Shape_Manipulator.png)

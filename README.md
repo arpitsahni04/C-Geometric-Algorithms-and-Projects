@@ -1,3 +1,5 @@
+## Geomtric Algorithms with GUI in C++ OPENGL and Eigen
+
 ### To run these simulators open solution files in visual studio in Release x64 mode, compile and run.
 
 The following programs are built using C++ and OpenGL.Each program has a GUI and use many fundamental Geometric and Path finding algorithms written from scratch in a modular way.
